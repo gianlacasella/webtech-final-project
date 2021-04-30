@@ -1,0 +1,87 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  price: 1
+  address: MyString
+  number_of_beds: 1
+  number_of_bathrooms: 1
+  number_of_rooms: 1
+  gym: false
+  pool: false
+  jacuzzi: false
+  conditions: MyString
+  description: MyString
+  kitchen: false
+  air_conditioner: false
+  warm_water: false
+  shampoo: false
+  parking_slots: 1
+  bed_sheet: false
+  clothespin: false
+  heating: false
+  video_directory: MyString
+  photo_directory: MyString
+  work_zone: false
+  wifi: false
+  tv: 1
+  smoke_detector: false
+  firt_aid_kit: false
+  refrigerator: false
+  microware: false
+  check_in: 2021-04-17 12:03:05
+  check_out: 2021-04-17 12:03:05
+  smoking_allowed: false
+  parties_allowed: false
+  pets_allowed: false
+  kids_allowed: false
+  people_allowed: 1
+  arrival_experience_score: 1.5
+  host_relaiability_score: 1.5
+  location_score: 1.5
+  cleaning_score: 1.5
+  price_score: 1.5
+  host_comunication_score: 1.5
+
+two:
+  name: MyString
+  price: 1
+  adress: MyString
+  number_of_beds: 1
+  number_of_bathrooms: 1
+  number_of_rooms: 1
+  gym: false
+  pool: false
+  jacuzzi: false
+  conditions: MyString
+  description: MyString
+  kitchen: false
+  air_conditioner: false
+  warm_water: false
+  shampoo: false
+  parking_slots: 1
+  bed_sheet: false
+  clothespin: false
+  heating: false
+  video_directory: MyString
+  photo_directory: MyString
+  work_zone: false
+  wifi: false
+  tv: 1
+  smoke_detector: false
+  firt_aid_kit: false
+  refrigerator: false
+  microware: false
+  check_in: 2021-04-17 12:03:05
+  check_out: 2021-04-17 12:03:05
+  smoking_allowed: false
+  parties_allowed: false
+  pets_allowed: false
+  kids_allowed: false
+  people_allowed: 1
+  arrival_experience_score: 1.5
+  host_relaiability_score: 1.5
+  location_score: 1.5
+  cleaning_score: 1.5
+  price_score: 1.5
+  host_comunication_score: 1.5

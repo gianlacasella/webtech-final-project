@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  date: 2021-04-17 12:27:27
+  title: MyString
+  arrival_experience: 1.5
+  price_score: 1.5
+  communication_score: 1.5
+  cleaning_score: 1.5
+  location_score: 1.5
+  host_reliability: 1.5
+
+two:
+  description: MyString
+  date: 2021-04-17 12:27:27
+  title: MyString
+  arrival_experience: 1.5
+  price_score: 1.5
+  communication_score: 1.5
+  cleaning_score: 1.5
+  location_score: 1.5
+  host_reliability: 1.5

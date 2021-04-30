@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2021-04-18 09:07:43
+  end_date: 2021-04-18 09:07:43
+  pre_reservation_date_time: 2021-04-18 09:07:43
+  number_of_people: 1
+
+two:
+  start_date: 2021-04-18 09:07:43
+  end_date: 2021-04-18 09:07:43
+  pre_reservation_date_time: 2021-04-18 09:07:43
+  number_of_people: 1

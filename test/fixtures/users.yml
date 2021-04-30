@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  host_score: 1.5
+  guest_score: 1.5
+  last_access: 2021-04-18 08:58:11
+  registration_date: 2021-04-18 08:58:11
+  email: MyString
+  birtday: 2021-04-18
+  first_name: MyString
+  last_name: MyString
+  profile_picture: MyString
+  biography: MyString
+  password: MyString
+
+two:
+  host_score: 1.5
+  guest_score: 1.5
+  last_access: 2021-04-18 08:58:11
+  registration_date: 2021-04-18 08:58:11
+  email: MyString
+  birtday: 2021-04-18
+  first_name: MyString
+  last_name: MyString
+  profile_picture: MyString
+  biography: MyString
+  password: MyString
